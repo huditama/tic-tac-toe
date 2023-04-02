@@ -5,11 +5,7 @@
 How to run:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+npm install && npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to play the game!
